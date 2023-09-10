@@ -1,0 +1,16 @@
+{
+  "name": "curso-jsdoc",
+  "version": "1.0.0",
+  "description": "Pruebas de JSDOC",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "4.0.2"
+  }
+}
