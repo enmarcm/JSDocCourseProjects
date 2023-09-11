@@ -13,5 +13,8 @@
   "dependencies": {
     "jsdoc": "4.0.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }
